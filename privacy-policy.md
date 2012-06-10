@@ -138,9 +138,6 @@ endeavour to ensure that the additional processing of personal information is
 kept to an absolute minimum. 
  
  
-To recover some of our costs we use advertising via Google AdSense which uses
-cookies and potentially other methods to provide targeted advertising. Google's
-privacy policy is available at http://www.google.com/privacy/ . 
  
  
 # Communications 
@@ -294,4 +291,5 @@ Netherlands, and our address is World Young Doctor’s Organization, Jonkerlaan
  
 # Appendix I - Documentation of changes 
 1. First version 2011-07-11 
+2. 2012-06-10 removed advertising
 
