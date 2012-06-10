@@ -1,11 +1,11 @@
-# Acknowledgements 
-# WYDO Privacy Policy 
-# Organizational Privacy Policy 
-# Website Privacy Policy 
-# Communications 
-# Financial Information 
-# Information about persons involved in WYDO 
-# Further information 
+## Acknowledgements 
+## WYDO Privacy Policy 
+## Organizational Privacy Policy 
+## Website Privacy Policy 
+## Communications 
+## Financial Information 
+## Information about persons involved in WYDO 
+## Further information 
  
  
  
@@ -14,7 +14,7 @@
  
  
  
-# Acknowledgements 
+## Acknowledgements 
  
  
 WYDO took the privacy policy from https://www.privacyinternational.org/ as a
@@ -24,7 +24,7 @@ needs and have changed large parts it may not be in accordance with Privacy
 International’s principles anymore. 
  
  
-# WYDO Privacy Policy 
+## WYDO Privacy Policy 
  
  
 WYDO strongly believes that you have the right to control the use of your
@@ -49,13 +49,13 @@ available resources.
  
  
  
-# Organizational Privacy Policy 
+## Organizational Privacy Policy 
  
  
 We collect as little personal information as possible. 
  
  
-# Website Privacy Policy 
+## Website Privacy Policy 
  
  
 Our webhost service provider, Netcup GmbH, is based in Germany. 
@@ -140,7 +140,7 @@ kept to an absolute minimum.
  
  
  
-# Communications 
+## Communications 
  
  
 As said, our hosting company is Netcup GmbH (http://netcup.de). Netcup’s
@@ -159,7 +159,7 @@ jurisdiction according to German law.
  
 If you want your communication to be private, please use email encryption.
 Further information can be found at http://www.gnupg.org/. Public keys for WYDO
-personnel can be found at http://www.wydo.org/about-wydo/members-of-the-board. 
+personnel can be found at the [list of members of the board](/node/12). 
  
  
 Emails received through wydo.org addresses are stored on infrastructure
@@ -209,7 +209,7 @@ communication. Naturally, all information sent to us otherwise is to be
 considered not secure. 
  
  
-# Financial Information 
+## Financial Information 
  
  
 We have created a PayPal account to administer on-line donations. Privacy
@@ -242,7 +242,7 @@ WYDO in the form of a cheque will be processed by the ABN AMRO Bank, in
 accordance with the bank's privacy policy and in accordance with Dutch law. 
  
  
-# Information about persons involved in WYDO 
+## Information about persons involved in WYDO 
  
  
 We collect information about persons doing work for WYDO for accounting and
@@ -256,7 +256,7 @@ We keep all accounting and administration information for auditing purposes, in
 accordance with standard practice and Dutch  law. 
  
  
-# Further information 
+## Further information 
  
  
 WYDO will endeavour to keep your personal information accurate. If you require
@@ -265,7 +265,7 @@ or have your information deleted from our files then please [contact](/contact)
 WYDO.
  
  
-# Changes to this policy 
+## Changes to this policy 
  
  
 In the event that this policy is changed at any time, the date and nature of
@@ -274,14 +274,14 @@ change has a material impact on the handling of your personal information, we
 will contact you to seek your consent. 
  
  
-# Questions 
+## Questions 
  
  
 If you have any questions regarding our privacy policy or require any
 clarifications, please [contact](/contact) us.  
  
  
-# About WYDO 
+## About WYDO 
  
  
 WYDO is registered with the Chamber of Commerce in The Hague[e] in the
@@ -289,7 +289,7 @@ Netherlands, and our address is World Young Doctor’s Organization, Jonkerlaan
 12, 2242 GD Wassenaar, the Netherlands.
  
  
-# Appendix I - Documentation of changes 
+## Appendix I - Documentation of changes 
 1. First version 2011-07-11 
-2. 2012-06-10 removed advertising
+2. 2012-06-10 removed advertising, policy now maintained at [github](https://github.com/wydoorg/documents/blob/master/privacy-policy.md)
 
