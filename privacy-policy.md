@@ -70,7 +70,7 @@ account.
  
  
 We try to understand the perception of our website through detailed usage of
-statistics via software developed at http://www.openwebanalytics.com. The
+statistics via software developed at http://piwik.org. The
 processing of web usage data is anonymized. Our statistics software does not
 provide us with access to IP logs. The raw server logs with ip addresses that
 we have regular access to are deleted from the server after four days and are
@@ -292,4 +292,5 @@ Netherlands, and our address is World Young Doctor’s Organization, Jonkerlaan
 ## Appendix I - Documentation of changes 
 1. First version 2011-07-11 
 2. 2012-06-10 removed advertising, policy now maintained at [github](https://github.com/wydoorg/documents/blob/master/privacy-policy.md)
+3. 2012-06-13 change from openwebanalytics to piwik
 
